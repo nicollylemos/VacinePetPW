@@ -1,3 +1,3 @@
 # Projeto VacinePet
 
-Link para o site hospedados: http://vacinepet.somee.com/
+Link para o site hospedado: http://vacinepet.somee.com/
